@@ -7,4 +7,4 @@ In general, this project is divided into two parts:
 
 ### [fMRI-EEG pilot](https://github.com/C0C0AN/auditory_system_organization/tree/master/fMRI-EEG_pilot)
 
-### [fMRI multiband](https://github.com/C0C0AN/auditory_system_organization/tree/master/fMRI-EEG_pilot)
+### [fMRI multiband](https://github.com/C0C0AN/auditory_system_organization/tree/master/fMRI-multiband)
